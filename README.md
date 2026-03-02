@@ -14,7 +14,8 @@ Identify patient demographic patterns
 
 The goal is to support data-driven decisions to improve operational efficiency and patient care quality
 
-📊 Dataset Details
+* 📊 Dataset Details
+
 
 Source: Kaggle
 
@@ -38,7 +39,8 @@ Procedures
 
 Insurance
 
-🎯 Problem Statement
+* 🎯 Problem Statement
+
 
 Healthcare management needs visibility into:
 
@@ -50,8 +52,11 @@ Department workload distribution
 
 Insurance coverage impact
 
-Steps I Performed
+* Steps I Performed
+
+
 1️⃣ Data Cleaning (Power Query)
+
 
 Standardized date columns
 
@@ -61,7 +66,9 @@ Removed inconsistencies
 
 Structured Date table
 
+
 2️⃣ Data Modeling
+
 
 Designed a Star Schema
 
@@ -71,7 +78,9 @@ Built a centralized fact table (Visits)
 
 Connected Date table for time intelligence
 
+
 3️⃣ DAX Development
+
 
 Created KPIs and calculated measures
 
@@ -79,13 +88,17 @@ Built time intelligence calculations
 
 Developed percentage and ratio metrics
 
-Key Insights 🔍
+* Key Insights 🔍
+
+  
 - Emergency visits can significantly impact department workload
 - Insurance coverage affects patient distribution
 - Demographic segmentation enables targeted operational improvements
 - Time-based trends help forecast resource demand
 
- 🛠 Tools & Technologies Used
+
+* 🛠 Tools & Technologies Used
+
 
 Microsoft Power BI Desktop
 
