@@ -14,7 +14,7 @@ Identify patient demographic patterns
 
 The goal is to support data-driven decisions to improve operational efficiency and patient care quality
 
-* 📊 Dataset Details
+ * 📊 Dataset Details
 
 
 Source: Kaggle
